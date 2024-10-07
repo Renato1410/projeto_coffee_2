@@ -2,5 +2,6 @@
 
 --cor-primaria: #fff;
 --cor-primaria-backroud:#252525;
+--cor-backroud-primary: #c6c6c6
 
 }
